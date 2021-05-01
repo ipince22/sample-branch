@@ -1,1 +1,2 @@
-texto desde rama1:
+texto desde rama1
+texto desde rama2
